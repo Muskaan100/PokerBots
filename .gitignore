@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+logs/
+pokER-main/
+bot_*.py
+opponent_*.py
+!bot.py
+!engine.py
+!opponent_strategic.py
