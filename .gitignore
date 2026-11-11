@@ -5,5 +5,6 @@ pokER-main/
 bot_*.py
 opponent_*.py
 !bot.py
+!bot_nemesis.py
 !engine.py
 !opponent_strategic.py
